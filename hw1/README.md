@@ -1,0 +1,1 @@
+作業說明請參照Scanner的ppt
